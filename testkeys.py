@@ -8,5 +8,4 @@ BOARD = str(f.readline()).strip()
 f.close()
 
 url = 'https://api.trello.com/1/boards/'+CARD+'/cards?key='+KEY+'&token='+TOKEN
-print urllib.urlopen()
-
+print urllib.urlopen(url)
