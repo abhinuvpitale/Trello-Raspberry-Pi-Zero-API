@@ -1,6 +1,9 @@
 # Trello-Raspberry-Pi-Zero-API
 API to display your Trello Boards on a Raspberry PI using the Bonnet OLED display
 
+![](https://github.com/abhinuvpitale/Trello-Raspberry-Pi-Zero-API/blob/master/docs/raspitrello.gif)
+
+
 I have always needed a to-do list on my desk!
 
 Sticky notes can't be updated whenever and wherever I want
